@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build output directory
+/bin/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore IDE specific files (optional, depending on your IDE)
+/.idea/
+/*.iml
+.project
+.classpath
+.settings/
